@@ -1,6 +1,6 @@
 {
   "name": "random-domain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get a random domain",
   "main": "index.js",
   "repository": {
