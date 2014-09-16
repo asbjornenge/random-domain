@@ -1,6 +1,6 @@
 # Random domain
 
-Returns a random domain using [random-word](https://www.npmjs.org/package/random-domain)  and [domains](https://www.npmjs.org/package/domains).
+Returns a random domain using [random-word](https://www.npmjs.org/package/random-word)  and [domains](https://www.npmjs.org/package/domains).
 
 ## Install
 
