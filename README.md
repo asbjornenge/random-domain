@@ -8,7 +8,7 @@ Returns a random domain using [random-word](https://www.npmjs.org/package/random
 
 ## Use
 
-   require('random-domain')()
-   //=> microfloppies.buzz
+    require('random-domain')()
+    //=> microfloppies.buzz
 
 enjoy.
