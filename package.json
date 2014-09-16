@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/asbjornenge/random-domain/issues"
   },
-  "homepage": "https://github.com/asbjornenge/random-domain"
+  "homepage": "https://github.com/asbjornenge/random-domain",
+  "dependencies": {
+    "domains": "^1.0.1",
+    "random-word": "^1.0.0"
+  }
 }
